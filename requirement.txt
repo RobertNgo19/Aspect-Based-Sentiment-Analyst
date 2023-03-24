@@ -1,0 +1,6 @@
+numpy
+pandas
+emoji
+re
+emoji
+
